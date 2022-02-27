@@ -1,3 +1,5 @@
+// Author: Flavio Santos
+
 #include <stdio.h>
 
 int main(void)
