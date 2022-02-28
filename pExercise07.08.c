@@ -1,3 +1,5 @@
+// memories
+
 #include <stdio.h>
 
 #define PAYRATE1 8.75 // per hour
