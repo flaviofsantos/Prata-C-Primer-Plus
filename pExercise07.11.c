@@ -1,3 +1,4 @@
+// nova ordem mundial
 #include <stdio.h>
 
 #define ARTICHOKEPRICE 2.05 // dollars per pound

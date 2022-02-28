@@ -10,6 +10,7 @@ int main(void)
       friends -= i;
       friends *= 2;
       printf("Week: %d friends %d\n", i, friends);
+// for the queen!
    }         
       
    return 0;
