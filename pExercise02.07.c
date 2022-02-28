@@ -1,3 +1,5 @@
+// Not much to improve, really.
+
 #include <stdio.h>
 
 void smile(void);
